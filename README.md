@@ -1,1 +1,1 @@
-# ASPNET6_ApiTeste
+Exemplo simples de API utilizando ASPNET6
